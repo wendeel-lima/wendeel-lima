@@ -5,12 +5,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendeel-lima&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendeel-lima&layout=compact&theme=highcontrast)
 
-  [<img height="30" width="40" src = "https://simpleicons.org/icons/youtube.svg" />](mailto:wendeel.admpar@gmail.com)
-  [<img height="30" width="40" src = "https://simpleicons.org/icons/instagram.svg">](https://www.instagram.com/wendeel_lima/)
-  [<img height="30" width="40" src = "https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/wendeellima/)
-  [<img height="30" width="40" src = "https://simpleicons.org/icons/codepen.svg" />](https://codepen.io/wendeel-lima)
-  [<img height="30" width="40" src = "https://simpleicons.org/icons/gmail.svg" />](mailto:wendeel.admpar@gmail.com)
-  
+<div>
+  <a href="https://www.youtube.com/channel/UCULLFka94vEPKNUKKBOxJJw"><img height="30" width="40" src = "https://simpleicons.org/icons/youtube.svg"></a>
+  <a href="https://www.instagram.com/wendeel_lima/"><img height="30" width="40" src = "https://simpleicons.org/icons/instagram.svg"></a>
+  <a href= "https://www.linkedin.com/in/wendeellima/"><img height="30" width="40" src = "https://simpleicons.org/icons/linkedin.svg"></a>
+  <a href="https://codepen.io/wendeel-lima"><img height="30" width="40" src = "https://simpleicons.org/icons/codepen.svg"></a>
+  <a href="mailto:wendeel.admpar@gmail.com"><img height="30" width="40" src = "https://simpleicons.org/icons/gmail.svg"></a>
+</div>
   
 
 <div style="display: inline_block"><br>
